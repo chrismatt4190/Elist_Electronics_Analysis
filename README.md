@@ -11,7 +11,7 @@
 
 <br>
          <p>
-The analysis focuses on several key areas of business performance. First, it evaluates historical sales trends across global and regional markets, examining metrics such as revenue, order volume, and average order value (AOV). The project also assesses product-level performance to understand how different product lines contribute to both sales and return rates. In addition, it analyzes the effectiveness of Elist’s loyalty program in driving customer retention and repeat purchases. Finally, regional comparisons are conducted to identify geographic differences in sales and order behavior, helping highlight opportunities for targeted growth strategies.<br>
+The Head of Operations is requesting a data-driven analysis of Elist’s order and sales performance from 2019 to 2022 to support an upcoming company-wide town hall presentation. Specifically, leadership wants a clear overview of overall sales trends during this period, including monthly and yearly growth rates. In addition, they are seeking insights into the effectiveness of the new loyalty program to determine whether it should continue to be used. The request also includes an evaluation of key operational metrics such as refund rates and average order value (AOV), which will help leadership better understand customer purchasing behavior and the company’s overall financial performance. These insights will be used to present a comprehensive view of Elist’s business performance and guide strategic decision-making moving forward.<br>
             </p>
 </table>
 
