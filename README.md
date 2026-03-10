@@ -17,6 +17,7 @@ The Head of Operations is requesting a data-driven analysis of Elist’s order a
 
 <table>
 <h2 align="center">Data Structures</h1>
+<body align="center"> Elist's database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 108,127 records.</body>
 <table align="center">
 <div align="center">
   <img width="500" height="500" alt="Screenshot 2026-03-10 at 12 52 51 AM" src="https://github.com/user-attachments/assets/1fbd15fa-18e4-4436-aba4-4e8b94aaf6a0" />
