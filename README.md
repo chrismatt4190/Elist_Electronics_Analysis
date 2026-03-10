@@ -15,42 +15,11 @@ The Head of Operations is requesting a data-driven analysis of Elist’s order a
             </p>
 </table>
 
-</table>
-<h2 align="center">Data Structure</h1>
+<table>
+<h2 align="center">Data Structures</h1>
 <table align="center">
-  
-<table align="center" width="100%">
-  <tr>
-    <td valign="top">
-      <ol>
-        <li>
-          <strong>Deal Volume & Revenue Performance</strong>
-          <ul>
-            <li>Monthly Deal Volume Trends</li>
-            <li>Monthly Revenue Trends</li>
-             <li>Revenue Contribution by Deal Owner</li>
-          </ul>
-        </li>
-        <li>
-          <strong> Funnel Conversion & Deal Velocity</strong>
-          <ul>
-            <li>Closed-Won Conversion Rate Over Time</li>
-            <li>Time to Close (Sales Cycle Length)</li>
-            <li>Win Rate by Lead Type</li>
-        </li>
-      </ol>
-    </td>
-    <td valign="top">
-      <ol start="3">
-        <li>
-          <strong>Lead Mix & Source Effectiveness</strong>
-          <ul>
-            <li>Lead Type Market Share</li>
-            <li>Revenue by Lead Source</li>
-            <li>Sales Effort by Lead Source</li>
-          </ul>
-        </li>
-      </ol>
-    </td>
-  </tr>
+<div align="center">
+  <img width="500" height="500" alt="Screenshot 2026-03-10 at 12 52 51 AM" src="https://github.com/user-attachments/assets/1fbd15fa-18e4-4436-aba4-4e8b94aaf6a0" />
+<div align="center">
+</table>
 </table>
