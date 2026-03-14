@@ -35,4 +35,13 @@ The Head of Operations is requesting a data-driven analysis of Elist’s order a
   The charts show a clear seasonal sales cycle throughout the year. Sales generally start slow in January and February, with February consistently showing the largest declines in growth, indicating a post-holiday slowdown and pipeline rebuilding period. Activity begins to gradually increase from March through June as deals move through the pipeline. The strongest sales performance occurs between July and September, with September typically representing the peak month across multiple years, suggesting that this is the primary closing window for deals. Immediately after this peak, October experiences the sharpest drop in growth, indicating a post-peak slowdown once major deals have closed. Sales then show a moderate rebound in November and December, likely driven by end-of-year budget spending and final contract closures. 
 </body>
 </table>
+<table align="center">
+<div align="center">
+  <img width="500" height="500" alt="Screenshot 2026-03-10 at 12 52 51 AM" src="https://github.com/user-attachments/assets/1fbd15fa-18e4-4436-aba4-4e8b94aaf6a0" />
+
+
+
+  
+<div align="center">
+</table>
 </table>
