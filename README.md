@@ -38,10 +38,6 @@ The Head of Operations is requesting a data-driven analysis of Elist’s order a
 <table align="center">
 <div align="center">
   <img width="500" height="500" alt="Screenshot 2026-03-10 at 12 52 51 AM" src="https://github.com/user-attachments/assets/1fbd15fa-18e4-4436-aba4-4e8b94aaf6a0" />
-
-
-
-  
 <div align="center">
-</table>
+</table> 
 </table>
