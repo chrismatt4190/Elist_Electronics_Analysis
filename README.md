@@ -67,3 +67,69 @@ The program experienced a notable slowdown in 2022, with loyalty sales declining
 <img width="961" height="99" alt="Screenshot 2026-03-16 at 10 55 08 AM" src="https://github.com/user-attachments/assets/25edb21e-d604-49ae-9dc5-02e2c2179833" />
 </p>
 
+---
+
+<h1 align="center">Recommendations</h1>
+
+<h2>Product Performance</h2>
+<p>
+Elist should expand its catalog within the product categories that are already driving the majority of revenue. 
+Currently, <strong>96% of total sales come from Wireless In-Ear Headphones, High-End Gaming Monitors, and Lightweight Laptops</strong>, 
+indicating strong product-market fit in these segments. Expanding the assortment to include 
+<strong>additional in-class or adjacent products</strong>—such as upgraded versions, complementary accessories, 
+or premium variants—would likely improve overall sales performance, increase average order value, 
+and broaden brand reach while leveraging existing consumer demand.
+</p>
+
+<h2>Global Reach</h2>
+<p>
+Because <strong>85% of total sales and orders originate from just 17 countries</strong>, 
+Elist should prioritize maintaining strong market penetration in these countries in the short term. 
+These markets represent the company’s core revenue base and should remain the primary focus for 
+marketing investment, customer acquisition, and retention strategies.
+</p>
+
+<p>
+To support long-term growth, Elist should initiate a project to identify 
+<strong>countries with economic and consumer characteristics similar to its current top-performing markets</strong>. 
+Expanding into these comparable markets will increase the likelihood of successful international growth.
+</p>
+
+<p>
+Additionally, Elist should prioritize <strong>experimentation and expansion within the APAC region</strong>. 
+Although APAC currently accounts for <strong>12% of total sales</strong>, it has the 
+<strong>highest average order value among all regions</strong>, indicating strong purchasing power and 
+demand for premium technology products. Given that consumers in many APAC markets tend to purchase 
+higher-priced electronics as status symbols, targeted marketing campaigns and localized product 
+offerings in this region could significantly increase revenue.
+</p>
+
+<h2>Loyalty Program</h2>
+<p>
+The loyalty program historically served as an important mechanism for maintaining customer value 
+following the surge in sales during 2020. However, recent trends indicate a potential shift in 
+customer engagement that should be monitored closely.
+</p>
+
+<p>
+From <strong>September through December 2022</strong>, non-loyalty customers exceeded loyalty customers 
+in <strong>sales, average order value, and order count</strong> for the first time since December 2020. 
+While this does not necessarily indicate the program is ineffective, it suggests that loyalty engagement 
+may be declining and warrants further evaluation before making long-term decisions about the program.
+</p>
+
+<p>
+To improve performance, Elist should <strong>reduce investment in the affiliate marketing channel</strong> 
+and instead concentrate marketing efforts on the <strong>direct and email marketing channels</strong>, 
+which have demonstrated the strongest loyalty program participation rates:
+</p>
+
+<ul>
+<li><strong>Direct Marketing Channel:</strong> 40% signup rate (~23.5K signups)</li>
+<li><strong>Email Marketing Channel:</strong> 59% signup rate (~8K signups)</li>
+</ul>
+
+<p>
+Strengthening these channels will help increase loyalty program participation and reinforce 
+repeat purchasing behavior among existing customers.
+</p>
