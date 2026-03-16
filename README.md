@@ -7,7 +7,7 @@
 </p>
 
 <p>
-The Head of Operations is requesting a data-driven analysis of Elist’s order and sales performance from 2019 to 2022 to support an upcoming company-wide town hall presentation. Specifically, leadership wants a clear overview of overall sales trends during this period, including monthly and yearly growth rates. In addition, they are seeking insights into the effectiveness of the new loyalty program to determine whether it should continue to be used. The request also includes an evaluation of key operational metrics such as refund rates and average order value (AOV), which will help leadership better understand customer purchasing behavior and the company’s overall financial performance.
+The Head of Operations is requesting a data-driven analysis of Elist’s order and sales performance from 2019 to 2022 to support an upcoming company-wide town hall presentation. Specifically, leadership wants a clear overview of overall sales trends during this period, including monthly and yearly growth rates. In addition, they are seeking insights into the effectiveness of the new loyalty program to determine whether it should continue to be used. The request also includes an evaluation of key operational metrics such as average order value (AOV), which will help leadership better understand customer purchasing behavior and the company’s overall financial performance.
 </p>
 
 ---
