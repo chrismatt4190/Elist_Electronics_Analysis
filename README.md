@@ -45,3 +45,15 @@ The product performance shows that revenue is concentrated in a few key products
 <p align="center">
 <img width="792" height="213"  alt="Screenshot 2026-03-16 at 10 06 17 AM" src="https://github.com/user-attachments/assets/ede7fedb-9eea-445c-8f59-7c26ea6ddff0" />
 </p>
+
+<h3 align="center">Global Reach</h3>
+
+<p>
+Elist demonstrates a broad global reach with sales concentrated across North America, Europe, and Asia-Pacific, while still maintaining emerging demand in Latin America. North America is the dominant region, accounting for 51% of total sales, driven primarily by the United States, which alone contributes 47% of global revenue ($13.3M). EMEA represents the second-largest market at 30% of total sales, with the United Kingdom, Germany, and France serving as the primary revenue drivers and a total of nine countries contributing to regional performance, indicating strong geographic diversification. APAC contributes 12% of overall sales, led by Japan and Australia, which together represent more than half of the region’s revenue and demonstrate strong purchasing power through higher average order values. Latin America accounts for 6% of total sales, with Brazil and Mexico leading the region, suggesting an emerging but smaller market footprint.
+</p>
+
+<p align="center">
+<img width="961" height="519" alt="Screenshot 2026-03-16 at 10 16 47 AM" src="https://github.com/user-attachments/assets/9680efaf-d6af-477d-9b5c-4d119690b277" />
+
+</p>
+
