@@ -32,7 +32,7 @@ Elist's database structure consists of four tables: orders, customers, geo_looku
 The charts show a clear seasonal sales cycle throughout the year. Sales generally start slow in January and February, with February consistently showing the largest declines in growth, indicating a post-holiday slowdown and pipeline rebuilding period. Activity begins to gradually increase from March through June as deals move through the pipeline. The strongest sales performance occurs between July and September, with September typically representing the peak month across multiple years.
 </p>
 
-<p>
+<p align="center">
 <img width="918" height="268" alt="Screenshot 2026-03-16 at 10 03 28 AM" src="https://github.com/user-attachments/assets/209bdf6a-799b-4253-8575-ce856490e8c8" />
 </p>
 
