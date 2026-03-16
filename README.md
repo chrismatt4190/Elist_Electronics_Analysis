@@ -55,5 +55,15 @@ Elist demonstrates a broad global reach with sales concentrated across North Ame
 <p align="center">
 <img width="961" height="519" alt="Screenshot 2026-03-16 at 10 16 47 AM" src="https://github.com/user-attachments/assets/9680efaf-d6af-477d-9b5c-4d119690b277" />
 
+<h3 align="center">Loyalty Program</h3>
+
+<p>
+The loyalty program appears to be an increasingly important channel for sustaining customer engagement and revenue over time. After launching in 2019, the program initially generated modest results, with loyalty sales of roughly $416K and 2K orders, significantly trailing non-loyalty performance. Adoption accelerated substantially in 2020 and 2021, when loyalty sales grew to $2.97M and $4.87M, respectively, alongside strong increases in order volume from 13K orders in 2020 to nearly 20K orders in 2021. During this period, the program became a meaningful driver of customer activity, with growth largely fueled by higher purchase frequency rather than increases in average order value (AOV). While loyalty AOV rose gradually from $207 in 2019 to $249 in 2021, the primary driver of revenue expansion was the surge in repeat purchases from loyalty members.
+
+The program experienced a notable slowdown in 2022, with loyalty sales declining to $2.72M and order counts falling to about 11K, though AOV remained relatively stable at $245. This suggests that while fewer loyalty purchases occurred, the spending behavior of participating customers remained consistent. Overall, the trend indicates that the loyalty program successfully scaled customer participation and repeat purchasing during its growth phase, but its recent contraction points to an opportunity to revisit engagement strategies and marketing channels to sustain loyalty member activity and long-term program value.
+</p>
+
+<p align="center">
+<img width="961" height="99" alt="Screenshot 2026-03-16 at 10 55 08 AM" src="https://github.com/user-attachments/assets/25edb21e-d604-49ae-9dc5-02e2c2179833" />
 </p>
 
